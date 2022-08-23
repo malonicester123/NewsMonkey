@@ -10,7 +10,7 @@ export class NewsItem extends Component {
           <img
             src={
               !imageUrl
-                ? "https://images.hindustantimes.com/tech/img/2022/08/17/1600x900/asteroid-6025507_1920_1648098187847_1660744600734_1660744600734.jpg"
+                ? "https://img.freepik.com/free-vector/people-using-their-mobile-phones-news_52683-39976.jpg?w=900&t=st=1661234780~exp=1661235380~hmac=8a3e44cdce02de9b923d8861e047477fbe49370f005fd3c9419586b666be5d73"
                 : imageUrl
             }
             className="card-img-top"
